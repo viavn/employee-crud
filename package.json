@@ -1,0 +1,23 @@
+{
+  "name": "employee-crud",
+  "version": "1.0.0",
+  "description": "Aplicação CRUD API em Node.js que alimentará aplicação Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viavn/employee-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viavn/employee-crud/issues"
+  },
+  "homepage": "https://github.com/viavn/employee-crud#readme",
+  "devDependencies": {
+    "eslint": "^7.6.0"
+  }
+}
